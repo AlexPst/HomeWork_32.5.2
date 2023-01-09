@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "actor": { "Timothee Chalamet": "Paul Atreides" },
+      "director": "Denis Villeneuve",
+      "nameFilm": "Dune",
+      "nameStudio": "Legendary pictures",
+      "release date": 2021
+    },
+    {
+      "actor": { "Kate Winslet": "Airis Simpkins" },
+      "director": "Nancy Meyers",
+      "nameFilm": "The Holiday",
+      "nameStudio": "Columbia Pictures",
+      "release date": 2006
+    },
+    {
+      "actor": { "Benedict Cumberbatch": "Doctor Strange" },
+      "director": "Scott Derrickson",
+      "nameFilm": "Doctor Strange",
+      "nameStudio": "Marvel Studios",
+      "release date": 2016
+    },
+    {
+      "actor": { "Bruce Willis": "John McClane" },
+      "director": "John McTiernan",
+      "nameFilm": "Die Hard with a Vengeance",
+      "nameStudio": "Cinergi Pictures",
+      "release date": 1995
+    },
+    {
+      "actor": { "Arnold Schwarzenegger": "Dutch" },
+      "director": "John McTiernan",
+      "nameFilm": "Predator",
+      "nameStudio": "20th Century Fox",
+      "release date": 1987
+    }
+  ]
+}
